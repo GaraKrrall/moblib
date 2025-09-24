@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "com.kaplanlib.mixin.client",
+  "package": "com.kaplanlib.client.mixin.client",
   "compatibilityLevel": "JAVA_21",
   "client": [
   ],
